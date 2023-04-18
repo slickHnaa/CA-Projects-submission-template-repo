@@ -16,5 +16,5 @@
 ...
 
 ## Author
-Henry Nii Ayitey-Adjin
+Henry Nii Ayitey-Adjin -  Team Quebec
 
